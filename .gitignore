@@ -1,0 +1,44 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Visual Studio Code settings
+.vscode/
+.vs/
+
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore build outputs for all configurations
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.vspscc
+*.vssscc
+*.dbmdl
+*.bak
+*.backup
+*.tmp
+*.temp
+*.ncb
+*.sdf
+*.opensdf
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Project-specific
+unit-test-csharp.csproj.nuget.g.props
+unit-test-csharp.csproj.nuget.g.targets
+unit-test-csharp.csproj.nuget.dgspec.json
+project.assets.json
+project.nuget.cache
